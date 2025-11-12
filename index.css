@@ -1,0 +1,31 @@
+body{
+    background: #f88d8d;
+    margin: 0;
+}
+
+#main-div{
+    background: #9c82eb;
+    width: 70%;
+    height: 500px;
+    margin-left: 15%;
+}
+
+#name{
+    color: #0909dd;
+    text-align: center;
+    /* border: solid #0909dd 5px;
+    margin-top: 10px; */
+    padding-top: 25px;
+    font: 'serif';
+    font-size: 50px;
+    font-weight: 700;
+}
+
+hr{
+    width: 90%;
+    margin-left: 5%;
+}
+
+img{
+    width: 450px;
+}
